@@ -1,4 +1,6 @@
 ## 3D detecion of custom objects using PointNet
+## This fork just updated everything to TF2
+
 Left: Ground Truth, Right: Predictions
 ![.](log//teaser.png)
 
@@ -8,10 +10,10 @@ The main code is from <a href="https://github.com/charlesq34/pointnet" target="_
 
 The code has been tested under following envoirenment;
 ```cpp
-* Ubuntu 18.04 LTS
-* Python 3.6.9
-* Tensorflow 1.14.0
-* CUDA 10.0
+* Ubuntu 20.04 LTS
+* Python 3.8
+* Tensorflow 1.2x
+* CUDA 11.1
 * Cudnn 7.6.2
 ```
 
